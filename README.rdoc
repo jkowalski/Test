@@ -17,9 +17,10 @@ See LICENSE.txt for details.
 
 Project Homepage: http://nlog-project.org
 
+Project RSS Feed: http://nlog-project.org/feed/
+
+== Latest News:
+
 http://feeds.feedburner.com/nlog.2.gif
 
-Latest News:
-
-Project RSS Feed: http://nlog-project.org/feed/
 
