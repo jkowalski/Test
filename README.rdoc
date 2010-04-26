@@ -19,4 +19,4 @@ Project Homepage: http://nlog-project.org
 
 Project News: http://nlog-project.org/feed/
 
-http://feeds.feedburner.com/nlog.2.gif
+http://feeds.feedburner.com/nlog.2.gif[http://www.onet.pl]
